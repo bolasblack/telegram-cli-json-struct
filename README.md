@@ -17,6 +17,7 @@ https://github.com/vysheng/tg/blob/master/json-tg.c
 ```
 
 * User `json_pack_user()`
+
     ```
     {
       first_name: ""
@@ -27,7 +28,9 @@ https://github.com/vysheng/tg/blob/master/json-tg.c
       username: ""
     }
     ```
+
 * Chat `json_pack_chat()`
+
     ```
     {
       title: ""
@@ -39,7 +42,9 @@ https://github.com/vysheng/tg/blob/master/json-tg.c
       }]
     }
     ```
+
 * Encr Chat `json_pack_encr_chat()`
+
     ```
     {
       user: <User>
