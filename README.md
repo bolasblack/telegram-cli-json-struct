@@ -1,6 +1,7 @@
 # Telegram JSON data strcut
 
-https://github.com/vysheng/tg/blob/master/json-tg.c
+* https://core.telegram.org/schema
+* https://github.com/vysheng/tg/blob/master/json-tg.c
 
 ## Peer
 
